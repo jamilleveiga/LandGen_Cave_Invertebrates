@@ -14,7 +14,7 @@ These suit of scripts were developed to perform the following analysis:
 
 3. Assessment of genetic diversity;
  3.1. Estimate Ho, He, pi, F and Tajima's D;
- 3.2. Prepare file to estimate effective population size (Ne;
+ 3.2. Prepare file to estimate effective population size (Ne);
 
 4. Assessment of fine-scale spatial genetic structure
 
