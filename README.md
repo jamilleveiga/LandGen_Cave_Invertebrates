@@ -1,8 +1,8 @@
-## Landscape genomics of cave invertebrates
+# Landscape genomics of cave invertebrates
 
 These suit of scripts were developed to perform the following analysis:
 
-# A) Population structure
+## A) Population structure
 
 1. SNPs filtering
 1.1. Filter SNPs dataset
@@ -19,7 +19,7 @@ These suit of scripts were developed to perform the following analysis:
 4. Assessment of fine-scale spatial genetic structure
 
 
-# B) Landscape genomic analysis
+## B) Landscape genomic analysis
 
 - Caculate environmental distances
 - Prepare rasters
