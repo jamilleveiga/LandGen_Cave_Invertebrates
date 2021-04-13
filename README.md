@@ -9,8 +9,8 @@ These suit of scripts were developed to perform the following analysis:
  1.2. Filter highly related individuals;
 
 2. Assessment of population structure;
- 2.1. Population structure assessment using sNMF;
- 2.2. Population structure assessment using DAPC;
+ 2.1. Assessment using sNMF;
+ 2.2. Assessment using DAPC;
 
 3. Assessment of genetic diversity;
  3.1. Estimate Ho, He, pi, F and Tajima's D;
